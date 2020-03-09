@@ -1,0 +1,25 @@
+{
+  "name": "parcel-plugin-honeybadger",
+  "version": "0.1.0",
+  "description": "Parcel plugin to upload source maps to Honeybadger's API - https://docs.honeybadger.io/lib/javascript/guides/using-source-maps.html",
+  "main": "src/index.js",
+  "author": "Tamer Shlash <mr.tamershlash@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "parcel",
+    "plugin",
+    "sourcemap",
+    "source map",
+    "minified js",
+    "honeybadger",
+    "honey badger"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-expand": "^5.1.0",
+    "form-data": "^3.0.0"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
