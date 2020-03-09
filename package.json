@@ -5,6 +5,10 @@
   "main": "src/index.js",
   "author": "Tamer Shlash <mr.tamershlash@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TamerShlash/parcel-plugin-honeybadger.git"
+  },
   "keywords": [
     "parcel",
     "plugin",
